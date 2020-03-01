@@ -7,6 +7,7 @@ PWA version of the budget tracker application. This allows it to function both o
 MongoDB, Node.js/Express
 
 ## deployed application
+https://gentle-everglades-42173.herokuapp.com/
 
 ## License
 MIT License
